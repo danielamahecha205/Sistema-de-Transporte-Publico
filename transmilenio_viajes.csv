@@ -1,0 +1,11 @@
+id_viaje,origen,destino,tiempo_est_min,distancia_km,dia_semana,hora_salida,pasajeros,linea,evento
+1,Portal Norte,Calle 72,18,8,Lunes,07:00,120,B,Ninguno
+2,Héroes,Universidades,15,6,Martes,18:00,85,B,Ninguno
+3,Portal Sur,Calle 26,22,10,Miércoles,06:30,150,G,Lluvia
+4,Calle 26,Universidades,5,2,Jueves,12:00,70,G,Ninguno
+5,Venecia,General Santander,6,3,Lunes,07:30,140,G,Trancón
+6,Cardio Infantil,Calle 63,20,9,Viernes,17:00,100,B,Ninguno
+7,Calle 161,Héroes,12,5,Sábado,11:00,50,B,Ninguno
+8,Calle 72,Calle 26,10,4,Domingo,14:00,60,Transversal,Ninguno
+9,Portal Norte,Universidades,25,12,Lunes,08:00,130,B,Ninguno
+10,Portal Sur,Héroes,35,15,Martes,17:30,110,G,Lluvia
